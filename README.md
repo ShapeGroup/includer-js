@@ -11,9 +11,9 @@ Perfect for small projects, apps, and basic realizations on node.js__
 ### Download:
 
 
-Version Http Request: [coming soon]
+Version Http Request: [open deployed versions](https://github.com/ShapeGroup/jsIncluder/tree/master/Deployed/viahttp/)
 
-Version Fetch:  [coming soon]
+Version Fetch:  [open deployed versions](https://github.com/ShapeGroup/jsIncluder/tree/master/Deployed/viafetch/)
 
 ---
 
@@ -26,7 +26,7 @@ Copy the file anywhere in your project (it's usual in www) and upload it as the 
 Create your html files to include on the page and link them to them via the fake attribute like this:
 
 
-      in head: <script type="text/javascript" src="./JsIncluder.js"></script>
+      in head: <script type="text/javascript" src="./includer.js"></script>
 
       into body: <div path="./myfolder/mywebfile.html"></div>
 
