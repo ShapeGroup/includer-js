@@ -11,7 +11,8 @@ Perfect for small projects, apps, and basic realizations on node.js__
 ### Download:
 
 
-Version Http Request: [open deployed versions](https://github.com/ShapeGroup/jsIncluder/tree/master/Deployed/viahttp/)
+Version Http Request: [open deployed versions](https://github.com/ShapeGroup/jsIncluder/tree/master/Deployed/viahttp/) / Currently recommended
+
 
 Version Fetch:  [open deployed versions](https://github.com/ShapeGroup/jsIncluder/tree/master/Deployed/viafetch/)
 
