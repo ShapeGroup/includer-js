@@ -4,7 +4,8 @@ JavaScript client-side web parts includer
 ---
 
 __It's a simple client-side javascript system that, through an http request or fetch request, loads content and html pages into a web page.
-Perfect for small projects, apps, and basic realizations on node.js__
+Perfect for small projects, apps, and basic realizations on node.js__<br>
+Do you like this project? we would like to have your appreciation: click on the ★ above this page. Thanks :)
 
 ---
 
