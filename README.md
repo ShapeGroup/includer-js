@@ -1,5 +1,6 @@
-# jsIncluder 
-JavaScript client-side web parts includer
+# Includer js 
+
+A Javascript client-side dom parts includer
 
 ---
 
